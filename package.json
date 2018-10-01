@@ -1,0 +1,15 @@
+{
+  "name": "Natours",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:usmanzaheer1995/natours.git",
+  "author": "Usman Zaheer <usmanzaheer1995@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "devDependencies": {
+    "node-sass": "^4.9.3"
+  },
+  "dependencies": {}
+}
